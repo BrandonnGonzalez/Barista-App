@@ -65,6 +65,7 @@ const BaristaForm = () => {
         <div className="logo">☕</div>
         <h1 className="title">On My Grind</h1>
         <p className="subtitle">So you think you can barista? Let's put that to the test...</p>
+        <p className="subtitle">Make sure to fill in all the ingredients correctly to pass the test!</p>
       </div>
 
       {/* Main Content */}
